@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-profile-banner.png" alt="GitHub Profile Banner">
+  <img src="github-profile-banner2nd.png" alt="GitHub Profile Banner">
 </p>
 
 # 👋 Hi, I'm Edgar Martins
