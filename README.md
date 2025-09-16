@@ -34,7 +34,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/edomartinss)
 - [GitHub](https://github.com/edomartinss)
-- Email: edgar.emartins@email.com*
+- Email: edgar.emartins@email.com
 
 ---
 
