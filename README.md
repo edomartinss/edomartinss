@@ -23,19 +23,18 @@
 
 ## 🛠️ Technologies I Work With
 
-- Microsoft Azure (IAM, RBAC, AD, Storage)
-- Infrastructure as Code (Terraform, Bicep)
+- Microsoft Azure (IAM, RBAC, EntraID, Storage, Intune)
+- Infrastructure as Code (Terraform)
 - GitHub Actions & CI/CD
-- Linux & Windows Server
-- Cloud Governance & Cost Optimization
+- Cloud Computing, CyberSecurity & Artificial Intelligence
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/edomartinss)
 - [GitHub](https://github.com/edomartinss)
-- Email: edgar@email.com *(substitua pelo seu)*
+- Email: edgar.emartins@email.com*
 
 ---
 
